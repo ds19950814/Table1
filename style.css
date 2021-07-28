@@ -1,0 +1,29 @@
+table,th,td {
+  border: 1px solid orange;
+  border-collapse: collapse;
+  background: #0f1c33;
+  padding: 20px;
+  text-align: center;
+  width: 40%;
+  font-family: 'Gowun Batang', serif;
+  color: white;
+  table-layout: fixed;
+
+}
+
+.th {
+  background: orange;
+  text-align: center;
+}
+#Pavarde {
+  background: #bd8d09;
+}
+#VardasAmzius {
+  background: #f7b80a;
+}
+
+/* Kodel neveikia !important?*/
+
+.td {
+  text-align: left !important;
+}
